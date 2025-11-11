@@ -1,0 +1,13 @@
+TensorFlow 2.15 +
+
+Keras
+
+Pillow
+
+NumPy, Pandas
+
+scikit-learn, matplotlib, seaborn
+
+Streamlit
+
+pyngrok (for Colab deployment)

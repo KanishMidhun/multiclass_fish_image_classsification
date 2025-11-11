@@ -25,11 +25,6 @@ multiclass_fish_image_classsification/
 │
 ├── streamlit_app1.py # Streamlit web app
 ├── fish_classify(1).ipynb # Colab notebook (training + evaluation)
-├── outputs/ # Saved model files (.h5 or .keras)
-├── data/ # Dataset (train/val/test folders)
-│ ├── train/
-│ ├── val/
-│ └── test/
 └── README.md
 ## 📊 Dataset
 
